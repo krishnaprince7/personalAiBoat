@@ -1,0 +1,106 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hyy",
+        "hey",
+        "intro",
+        "kaun ho",
+        "who are you"
+      ],
+      "responses": [
+        "Hello! Main Krishna ka personal AI bot hoon 🤖",
+        "Hi! Main Krishna ke baare me bata sakta hoon"
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "krishna kaun hai",
+        "about krishna",
+        "apne bare me bata",
+        "who is krishna",
+        "details"
+      ],
+      "responses": [
+        "Krishna Vishwakarma ek developer hai jo AI aur web development seekh raha hai 🚀"
+      ]
+    },
+    {
+      "tag": "learning",
+      "patterns": [
+        "kya seekh raha hai",
+        "learning kya hai",
+        "abhi kya kar raha hai",
+        "current skills",
+        "what is he learning"
+      ],
+      "responses": [
+        "Krishna abhi AI, PyTorch aur chatbot development (React & React Native) seekh raha hai 🔥"
+      ]
+    },
+    {
+      "tag": "relationship",
+      "patterns": [
+        "girlfriend",
+        "relationship",
+        "love life",
+        "gf kaun hai",
+        "who is gf",
+        "lover"
+      ],
+      "responses": [
+        "Krishna ki girlfriend ka naam Anjana hai ❤️"
+      ]
+    },
+    {
+      "tag": "ex_relationship",
+      "patterns": [
+        "ex girlfriend",
+        "ex kaun hai",
+        "purani gf",
+        "who is ex",
+        "ishika",
+        "past relationship"
+      ],
+      "responses": [
+        "Krishna ki ex-girlfriend ka naam Ishika tha."
+      ]
+    },
+    {
+      "tag": "food",
+      "patterns": [
+        "food",
+        "khana",
+        "favorite dish",
+        "fav food",
+        "kya pasand hai khane me",
+        "what does he eat"
+      ],
+      "responses": [
+        "Krishna ko  Biryani pasand hai "
+      ]
+    },
+    {
+      "tag": "learned_6255",
+      "patterns": [
+        "krishna kese he"
+      ],
+      "responses": [
+        "hot he"
+      ]
+    },
+    {
+      "tag": "learned_5302",
+      "patterns": [
+        "krishna amir he ki grib"
+      ],
+      "responses": [
+        "amir"
+      ]
+    }
+  ]
+}
