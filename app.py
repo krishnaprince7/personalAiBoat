@@ -9,6 +9,10 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 import subprocess
 
+
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 app = Flask(__name__)
 CORS(app)  
 
